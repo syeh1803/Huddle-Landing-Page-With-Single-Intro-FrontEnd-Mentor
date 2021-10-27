@@ -2,13 +2,22 @@
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
-## The challenge
+## Overview
 
-Your challenge is to build out this landing page from the designs provided in the starter code.
+### The challenge
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Users should be able to:
 
-Your users should be able to: 
+- View the optimal layout for the site depending on their device's screen size
 
-- View the optimal layout for the page depending on their device's screen size
-- See hover states for all interactive elements on the page
+### Screenshot
+
+![](./images/desktop-1440px.png)
+![](./images/mobile-375px.png)
+
+### Built with
+
+- Semantic HTML5 markup
+- Vanilla CSS
+- Flexbox
+- Desktop-first workflow
